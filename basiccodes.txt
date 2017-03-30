@@ -1,0 +1,10 @@
+cd anaconda/envs
+
+source activate Python
+
+cd ../..
+
+cd pythonprojects/djangog
+
+python manage.py runserver
+
