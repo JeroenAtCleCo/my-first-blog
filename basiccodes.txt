@@ -11,6 +11,7 @@ python manage.py runserver
 
 GIT
 
+
 -- vanuit de projectdirectory --
 
 git status
