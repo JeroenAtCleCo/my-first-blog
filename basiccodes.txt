@@ -7,3 +7,23 @@ cd ../..
 cd pythonprojects/djangog
 
 python manage.py runserver
+
+
+GIT
+
+-- vanuit de projectdirectory --
+
+git status
+
+git add --all .
+
+git commit -m "Description commit"
+
+git push
+
+
+-- vanaf de server --
+
+cd my-first-blog
+
+git pull
