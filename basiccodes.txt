@@ -7,4 +7,3 @@ cd ../..
 cd pythonprojects/djangog
 
 python manage.py runserver
-
