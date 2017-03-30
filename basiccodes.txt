@@ -27,3 +27,11 @@ git push
 cd my-first-blog
 
 git pull
+
+PROBLEMS ON THE SERVER
+
+git stash
+
+dan de merge met de pull
+
+git stash pop
